@@ -1,1 +1,1 @@
-# git init CT-MyFirstRepo
+# CT-MyFirstRepo
